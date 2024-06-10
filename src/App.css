@@ -1,0 +1,9 @@
+.settings-panel {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .settings-panel h2 {
+    margin-top: 0;
+  }
